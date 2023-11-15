@@ -1,0 +1,4 @@
+# Ignore a file or directory in the context root named "modules"
+tb_logs
+.gitignore
+.git
